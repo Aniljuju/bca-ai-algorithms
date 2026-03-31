@@ -84,7 +84,6 @@ C.children = [(E, 1)]
 D.solved = True
 E.solved = True
 
-# Fix 1: Set cost = 0 for solved leaf nodes
 D.cost = 0
 E.cost = 0
 
